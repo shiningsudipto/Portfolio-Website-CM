@@ -27,7 +27,7 @@ const Services = () => {
       link: 'Learn more'
     }
   ]
-  return <section id='services' className='section'>
+  return <section id='services' className='py-10'>
     <div className='container mx-auto'>
       <div className='flex flex-col lg:flex-row'>
         {/* text & img*/}
